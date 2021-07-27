@@ -1,5 +1,5 @@
 _repo: Illuminated-illustrations-of-Froissart-Selected-from-the-ms-in-the-British-museum_65908
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   compiler:
     agent_name: Humphreys, Henry Noel
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '42986'
     url: http://www.gutenberg.org/2009/agents/42986
     wikipedia: https://en.wikipedia.org/wiki/Henry_Noel_Humphreys
+covers:
+- cover_type: archival
+  image_path: 65908-h/images/cover.jpg
 creator:
   author:
     agent_name: Froissart, Jean
@@ -25,6 +28,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean_Froissart
     - https://fr.wikipedia.org/wiki/Jean_Froissart
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65908#Illuminated-illustrations-of-Froissart-Selected-from-the-ms-in-the-British-museum
 gutenberg_issued: '2021-07-24'
 gutenberg_type: Text
 identifiers:
